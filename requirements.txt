@@ -115,4 +115,4 @@ webencodings==0.5.1
 websockets==10.3
 widgetsnbextension==4.0.3
 wsproto==1.2.0
-pdfminer2
+pdfminer2==20151206
